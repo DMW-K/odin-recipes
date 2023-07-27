@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: rgb(243, 233, 146);
+    color: rgb(207, 50, 50);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
+
+.listtwo {
+    padding-left: 0%;
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+}

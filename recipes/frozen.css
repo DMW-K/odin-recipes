@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(241, 253, 68);
+    color: rgb(51, 153, 51);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+
+}.list {
+    display: inline-block;
+    text-align: left;
+}
+
+.listtwo {
+    padding-left: 0%;
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+}
